@@ -1,6 +1,12 @@
 # 💁 About Me:
 <br>Hi, I’m Prashanjeet Chakrabarty, a pre-final year B.Tech Computer Science student at SRM. I enjoy building real world web applications, mainly using React, Tailwind and Firebase, and I regularly practice Data Structures & Algorithms in Java to strengthen problem solving. I also work with Python for data analysis and machine learning, and explore Web3/NFT projects. Alongside development, I follow financial markets.. learning trading and investing  and I’m interested in how technology connects with finance.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrashanjeetChakrabarty/PrashanjeetChakrabarty/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrashanjeetChakrabarty/PrashanjeetChakrabarty/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrashanjeetChakrabarty/PrashanjeetChakrabarty/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prashanjeettt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashanjeet-chakrabarty-782978250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashanjeetchakrabarty@gmail.com) 

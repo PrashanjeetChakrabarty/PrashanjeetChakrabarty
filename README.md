@@ -1,5 +1,5 @@
 # 💁 About Me:
-<br>Hi, I’m Prashanjeet Chakrabarty, a pre-final year B.Tech Computer Science student at SRM. I enjoy building real world web applications, mainly using React, Tailwind and Firebase, and I regularly practice Data Structures & Algorithms in Java to strengthen problem solving. I also work with Python for data analysis and machine learning, and explore Web3/NFT projects. Alongside development, I follow financial markets.. learning trading and investing  and I’m interested in how technology connects with finance.
+<br>Hi, I’m Prashanjeet Chakrabarty, a final year B.Tech Computer Science student at SRM. I enjoy building real world web applications, mainly using React, Tailwind and Firebase, and I regularly practice Data Structures & Algorithms in Java to strengthen problem solving. I also work with Python for data analysis and machine learning, and explore Web3/NFT projects. Alongside development, I follow financial markets.. learning trading and investing  and I’m interested in how technology connects with finance.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrashanjeetChakrabarty/PrashanjeetChakrabarty/output/github-contribution-grid-snake-dark.svg">
